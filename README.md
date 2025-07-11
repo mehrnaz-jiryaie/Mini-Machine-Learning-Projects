@@ -12,7 +12,7 @@ This repository contains a collection of small, beginner-friendly machine learni
    - Detects spam messages using Naive Bayes and CountVectorizer.
    - Small sample dataset with binary labels (spam / not spam).
 
-3. **KMeans Clustering**  
+3. **K-Means Clustering**  
    - Demonstrates unsupervised learning using KMeans on synthetic data.
    - Visualizes clusters and their centers with matplotlib.
 
@@ -44,7 +44,7 @@ pip install scikit-learn pandas matplotlib
 ```
 3. Run each project individually:
 ```bash
-cd 03_mnist_digits
+cd 01_mnist_digits
 python mnist.py
 ```
 
