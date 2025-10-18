@@ -30,6 +30,7 @@ This repository contains a collection of small, beginner-friendly machine learni
 - pandas
 - matplotlib
 - Jupyter Notebook (optional)
+- numPy
 
 ---
 
