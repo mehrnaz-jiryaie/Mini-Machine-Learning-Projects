@@ -16,6 +16,10 @@ This repository contains a collection of small, beginner-friendly machine learni
    - Demonstrates unsupervised learning using KMeans on synthetic data.
    - Visualizes clusters and their centers with matplotlib.
 
+4. **Height Prediction using Linear Regression**
+   - Implements a Simple Linear Regression model using NumPy to find the best-fitting line between weight and height data.
+   - Calculates the slope and intercept using the Least Squares Method and visualizes the result with Matplotlib.
+
 
 ---
 
